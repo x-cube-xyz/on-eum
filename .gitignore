@@ -1,0 +1,13 @@
+.gradle/
+.gradle-user-home/
+.kotlin/
+.tooling/
+**/build/
+local.properties
+*.jks
+*.keystore
+.idea/
+captures/
+artifacts/
+*.log
+.codex-remote-attachments/
